@@ -65,8 +65,6 @@
             android:checked="@{checked}"
             android:enabled="@{enabled}"
             app:onCheckedChangeListener="@{(v, newStatus) -> callback.onChecked(newStatus)}"
-            app:thumbTint="#ffffff"
-            app:trackTint="#e1e2e3"
             tools:checked="true" />
     </LinearLayout>
 </layout>
