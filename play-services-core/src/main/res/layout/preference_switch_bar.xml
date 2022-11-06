@@ -39,7 +39,7 @@
         android:paddingLeft="?attr/listPreferredItemPaddingLeft"
         android:paddingEnd="?attr/listPreferredItemPaddingEnd"
         android:paddingRight="?attr/listPreferredItemPaddingRight"
-        android:background="?attr/colorSurface"
+        android:background="#00000000"
         tools:background="?attr/colorControlActivated">
 
         <TextView
