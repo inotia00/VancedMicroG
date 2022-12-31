@@ -30,7 +30,7 @@
         <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:background="?attr/colorPrimary"
+            android:background="?attr/selectableItemBackground"
             android:paddingStart="?attr/listPreferredItemPaddingStart"
             android:paddingLeft="?attr/listPreferredItemPaddingLeft"
             android:paddingTop="24dp"
