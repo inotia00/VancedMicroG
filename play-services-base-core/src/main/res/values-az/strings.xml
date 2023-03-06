@@ -6,6 +6,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <string name="notification_service_name">Batareya qənaət xəbərdarlığı</string>
     <string name="small_notification_service_title">Bildirişi genişləndir</string>
-    <string name="big_notification_service_title">MicroG-ni arxa planda saxla</string>
-    <string name="notification_service_content">MicroG üçün batareyanın optimallaşdırılmasını deaktiv etmək üçün bura klikləyin, sonra bu bildirişi silmək üçün cihazı yenidən başladın</string>
+    <string name="big_notification_service_title">MicroG-ni fonda saxla</string>
+    <string name="notification_service_content">ReVanced MicroG üçün batareya optimallaşdırılmasını bağlamaq üçün buraya bas, sonra isə bu bildirişi silmək üçün cihazı yenidən başlat</string>
 </resources>
