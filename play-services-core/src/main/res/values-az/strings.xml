@@ -15,35 +15,35 @@
   ~ limitations under the License.
   -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="gms_settings_summary">MicroG-ni quraşdırın.</string>
+    <string name="gms_settings_summary">MicroG-ni quraşdır.</string>
     <string name="just_a_sec">Bircə saniyə...</string>
-    <string name="account_manager_title">Google profil meneceri</string>
-    <string name="sorry">Bağışlayın...</string>
-    <string name="auth_before_connect">"Cihazınızdakı proqram Google hesabına daxil olmağa çalışır.
+    <string name="account_manager_title">Google hesab köməkçisi</string>
+    <string name="sorry">Bağışla...</string>
+    <string name="auth_before_connect">"Cihazınızdakı tətbiq Google hesabına daxil olmağa cəhd edir.
 
-Bu qəsdən edilibsə, Google-a qoşulmaq üçün <b>Daxil olun</b> (və ya bu marka ilə cihazınız varsa <b>Huawei</b>) düyməsini istifadə edin."</string>
+Bu məqsədlə edilibsə, Google-un daxil ol səhifəsinə qoşulmaq üçün <b>Daxil ol</b> (əgər bu marka ilə cihazınız varsa <b>Huawei</b>) düyməsini istifadə edin."</string>
     <string name="auth_sign_in">Daxil ol</string>
-    <string name="auth_connecting">"Daxil olmaq üçün Google serverləri ilə əlaqə qurur.
+    <string name="auth_connecting">"Daxil olmanız üçün Google serverləri ilə əlaqə yaradılır.
 
 Bu bir neçə saniyə çəkə bilər."</string>
-    <string name="no_network_error_desc">"Şəbəkə bağlantınız yoxdur.
+    <string name="no_network_error_desc">"Şəbəkə bağlantısı yoxdur.
 
-Bu müvəqqəti problem ola bilər və ya Android cihazınız data xidmətləri üçün təmin olunmaya bilər. Mobil şəbəkəyə qoşulduqda yenidən cəhd edin və ya Wi-Fi şəbəkəsinə qoşulun."</string>
+Bu müvəqqəti problem ola bilər və ya Android cihazınız məlumat xidmətləri üçün təchiz olunmaya bilər. Mobil şəbəkəyə qoşulub yenidən cəhd edin və ya Wi-Fi şəbəkəsinə qoşulun."</string>
     <string name="auth_general_error_desc">"Google serverləri ilə əlaqə qurarkən problem yarandı.
 
-Biraz sonra yenidən cəhd edin."</string>
-    <string name="auth_finalize">"Cihazınız məlumatı hesabınızda saxlamaq üçün Google ilə əlaqə saxlayır.
+Daha sonra yenidən cəhd et."</string>
+    <string name="auth_finalize">"Cihazınız məlumatı hesabınızda saxlamaq üçün Google ilə əlaqə yaradır.
 
 Bu bir neçə dəqiqə çəkə bilər."</string>
-    <string name="perm_status_broadcast_label">daxili status verilişlərinə qulaq asın</string>
-    <string name="perm_c2dm_receive_label">c2DM mesajlarına qulaq asın</string>
-    <string name="perm_c2dm_send_label">digər proqramlara C2DM mesajları göndərin</string>
-    <string name="perm_gtalk_svc_label">mesajlar mübadiləsi və Google serverlərindən sinxronizasiya bildirişləri almaq</string>
+    <string name="perm_status_broadcast_label">daxili status verilişlərini dinlə</string>
+    <string name="perm_c2dm_receive_label">C2DM mesajlarını dinlə</string>
+    <string name="perm_c2dm_send_label">digər tətbiqlərə C2DM mesajları göndər</string>
+    <string name="perm_gtalk_svc_label">mesajlar dəyişdirməsi və Google serverlərindən sinxronizasiya bildirişləri almaq</string>
     <string name="perm_extended_access_label">Google xidmətlərinə genişləndirilmiş giriş</string>
     <string name="service_name_checkin">Google cihaz qeydiyyatı</string>
-    <string name="service_name_mcs">Bulud mesajlaşma</string>
-    <string name="service_status_enabled_short">Açıq</string>
-    <string name="service_status_disabled_short">Bağlı</string>
+    <string name="service_name_mcs">Cloud mesajlaşma</string>
+    <string name="service_status_enabled_short">Aç</string>
+    <string name="service_status_disabled_short">Bağla</string>
     <string name="menu_advanced">Qabaqcıl</string>
     <string name="list_no_item_none">Heç biri</string>
     <string name="list_item_see_all">Hamısını gör</string>
@@ -55,50 +55,50 @@ Bu bir neçə dəqiqə çəkə bilər."</string>
     <string name="prefcat_about">Haqqında</string>
     <string name="prefcat_google_services">Google xidmətləri</string>
     <string name="pref_more_settings">Daha çox</string>
-    <string name="checkin_not_registered">Qeydiyyat olunmayıb</string>
+    <string name="checkin_not_registered">Qeydiyyatdan keçilməyib</string>
     <string name="checkin_last_registration">Sonuncu qeydiyyat: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>
-    <string name="prefs_account">Hesab arayışı</string>
-    <string name="prefs_account_privacy">Şəxsi informasiya &amp; gizlilik</string>
-    <string name="prefs_account_security">Daxil olmaq &amp; güvənlik</string>
-    <string name="pref_auth_trust_google_title">Tətbiq icazələri üçün Google-a etibar edin</string>
-    <string name="pref_auth_trust_google_summary">Deaktiv edildikdə, tətbiqlərin icazə sorğusu Google-a göndərilməmişdən əvvəl istifadəçidən soruşulur. Bu deaktiv edilərsə, bəzi tətbiqlər Google hesabından istifadə edə bilməyəcək.</string>
-    <string name="pref_auth_visible_title">Tətbiqlərə hesabları tapmağa icazə verin</string>
-    <string name="pref_auth_visible_summary">Aktivləşdirildikdə, bu cihazdakı bütün tətbiqlər əvvəlcədən icazə olmadan Google Hesablarınızın e-poçt ünvanlarını görə biləcək.</string>
+    <string name="prefs_account">Hesab seçimləri</string>
+    <string name="prefs_account_privacy">Şəxsi məlumat &amp; gizlilik</string>
+    <string name="prefs_account_security">Daxil ol &amp; təhlükəsizlik</string>
+    <string name="pref_auth_trust_google_title">Tətbiq icazələri üçün Google-a etibar et</string>
+    <string name="pref_auth_trust_google_summary">Deaktiv edildikdə, tətbiq icazə sorğuları Google-a göndərilməmişdən əvvəl istifadəçidən soruşulur. Bu deaktiv edilərsə, bəzi tətbiqlər Google hesabından istifadə edə bilməyəcək.</string>
+    <string name="pref_auth_visible_title">Tətbiqlərə hesabları tapmaq üçün icazə ver</string>
+    <string name="pref_auth_visible_summary">Aktivləşdirildikdə, bu cihazdakı bütün tətbiqlər əvvəlcədən icazə olmadan Google Hesablarınızın e-poçt ünvanlarını görəcək.</string>
     <string name="pref_add_account_title">Hesab</string>
     <string name="pref_add_account_summary">Google hesabı əlavə et</string>
-    <string name="pref_gcm_switcher_title">Push bildirişlərini alın</string>
-    <string name="pref_gcm_enable_mcs_summary">Cloud Messaging bir çox üçüncü tərəf proqramları tərəfindən istifadə edilən təkan bildiriş təminatçısıdır. Onu istifadə etmək üçün cihazın qeydiyyatını aktiv etməlisiniz.</string>
+    <string name="pref_gcm_switcher_title">Təkan bildirişləri qəbul et</string>
+    <string name="pref_gcm_enable_mcs_summary">Cloud Messaging bir çox üçüncü tərəf tətbiqlər tərəfindən istifadə edilən təkan bildiriş təminatçısıdır. Onu istifadə etmək üçün cihaz qeydiyyatın aktivləşdirməlisiniz.</string>
     <string name="pref_about_title">MicroG haqqında</string>
-    <string name="hideLauncherIcon">Proqramın ikonunu başladıcıdan gizlət</string>
+    <string name="hideLauncherIcon">Tətbiq nişanını başladıcıdan gizlət</string>
     <string name="brand_spoof_button">Huawei</string>
-    <string name="pref_switcher_title">Cihaz qeydiyyat et</string>
-    <string name="pref_checkin_enable_summary">Cihazınızı Google xidmətlərində qeydiyyatdan keçirir və unikal cihaz identifikatoru yaradır. microG qeydiyyat məlumatlarından Google hesabınızın adından başqa müəyyən bitləri ayırır.</string>
+    <string name="pref_switcher_title">Cihazı qeydiyyatdan keçir</string>
+    <string name="pref_checkin_enable_summary">Cihazınızı Google xidmətlərində qeydiyyatdan keçirir və unikal cihaz identifikatoru yaradır. MicroG qeydiyyat məlumatlarından Google hesabınızın adından başqa müəyyən parçaları ayırır.</string>
     <string name="pref_device_registration_android_id">Android ID</string>
-    <string name="pref_info_status">Status</string>
-    <string name="gcm_status_pref_default">Defolt</string>
+    <string name="pref_info_status">Vəziyyət</string>
+    <string name="gcm_status_pref_default">Standart</string>
     <string name="gcm_status_pref_manual">Manual</string>
-    <string name="gcm_status_pref_sec">saniyələr</string>
-    <string name="gcm_status_pref_min">dəqiqələr</string>
-    <string name="gcm_unregister_app">Qeydiyyatdan çıxarın</string>
+    <string name="gcm_status_pref_sec">saniyə</string>
+    <string name="gcm_status_pref_min">dəqiqə</string>
+    <string name="gcm_unregister_app">Qeydiyyatdan çıx</string>
     <string name="gcm_no_message_yet">İndiyə qədər heç bir mesaj alınmayıb</string>
-    <string name="gcm_last_message_at">Sonuncu mesaj: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>
-    <string name="gcm_registered">Qeydiyyatdan keçib</string>
-    <string name="gcm_registered_since">Qeydiyyatdan keçib: <xliff:g example="Yesterday, 02:20 PM">%1$s</xliff:g></string>
-    <string name="gcm_unregister_confirm_title">Qeydiyyatdan çıxar: <xliff:g example="F-Droid">%1$s</xliff:g>?</string>
-    <string name="gcm_unregister_confirm_message">Bəzi proqramlar avtomatik olaraq yenidən qeydiyyatdan keçmir və yaxud bunu əl ilə etmək imkanı vermir. Bu tətbiqlər qeydiyyatdan çıxarıldıqdan sonra düzgün işləməyə bilər. \n Davam edilsin?</string>
-    <string name="gcm_unregister_after_deny_message">Siz artıq qeydiyyatdan keçmiş push bildirişləri üçün qeydiyyatdan keçmək üçün proqramdan imtina etdiniz. Gələcəkdə push mesajları almaması üçün onu indi qeydiyyatdan çıxarmaq istəyirsiniz?</string>
+    <string name="gcm_last_message_at">Sonuncu mesaj: <xliff:g example="Dünən, 02:20 PM">%1$s</xliff:g></string>
+    <string name="gcm_registered">Qeydiyyatdan keçilib</string>
+    <string name="gcm_registered_since">Qeydiyyatdan keçilib: <xliff:g example="Dünən, 02:20 PM">%1$s</xliff:g></string>
+    <string name="gcm_unregister_confirm_title">Qeydiyyatdan çıx: <xliff:g example="F-Droid">%1$s</xliff:g>?</string>
+    <string name="gcm_unregister_confirm_message">Bəzi tətbiqlər avtomatik olaraq yenidən qeydiyyatdan keçmir və ya bunu əl ilə etmək imkanı vermir. Bu tətbiqlər qeydiyyatdan çıxarıldıqdan sonra düzgün işləməyə bilər. \n Davam edilsin?</string>
+    <string name="gcm_unregister_after_deny_message">Siz artıq qeydiyyatdan keçmiş təkan bildirişləri üçün qeydiyyatdan keçmək üçün tətbiqdən imtina etdiniz. Gələcəkdə təkan mesajları almamaq üçün onu indi qeydiyyatdan çıxarmaq istəyirsiniz?</string>
     <string name="gcm_messages_counter">Mesaj: <xliff:g example="123">%1$d</xliff:g> (<xliff:g example="12345">%2$d</xliff:g> bytes)</string>
     <string name="gcm_network_state_disconnected">Bağlantı kəsildi</string>
-    <string name="gcm_network_state_connected">Bu vaxtdan qoşulub <xliff:g example="2 hours ago">%1$s</xliff:g></string>
+    <string name="gcm_network_state_connected">Bu vaxtdan qoşulub <xliff:g example="2 saat əvvəl">%1$s</xliff:g></string>
     <string name="pref_push_app_allow_register_title">Qeydiyyata icazə ver</string>
-    <string name="pref_push_app_allow_register_summary">Tətbiqə təkan bildirişləri üçün qeydiyyatdan keçməyə icazə verin.</string>
-    <string name="pref_push_app_wake_for_delivery_title">Push mesajında ​​proqramı işə salın</string>
-    <string name="pref_push_app_wake_for_delivery_summary">Daxil olan təkan mesajlarını qəbul etmək üçün proqramı fonda işə salın.</string>
-    <string name="prefcat_status_title">Status</string>
-    <string name="prefcat_push_apps_title">Push bildirişlərindən istifadə edən proqramlar</string>
-    <string name="prefcat_push_apps_registered_title">Qeydiyyat olunmuş proqramlar</string>
-    <string name="prefcat_push_apps_unregistered_title">Qeydiyyat olunmamış proqramlar</string>
-    <string name="prefcat_push_networks_title">Push bildirişləri üçün istifadə ediləcək şəbəkələr</string>
+    <string name="pref_push_app_allow_register_summary">Tətbiq təkan bildirişləri üçün qeydiyyatdan keçməyə icazə ver.</string>
+    <string name="pref_push_app_wake_for_delivery_title">Təkan mesajında ​​tətbiqi işə sal</string>
+    <string name="pref_push_app_wake_for_delivery_summary">Daxil olan təkan mesajlarını qəbul etmək üçün tətbiqi fonda işə sal.</string>
+    <string name="prefcat_status_title">Vəziyyət</string>
+    <string name="prefcat_push_apps_title">Təkan bildirişlərindən istifadə edən tətbiqlər</string>
+    <string name="prefcat_push_apps_registered_title">Qeydiyyatdan keçilmiş tətbiqlər</string>
+    <string name="prefcat_push_apps_unregistered_title">Qeydiyyatdan keçilməmiş tətbiqlər</string>
+    <string name="prefcat_push_networks_title">Təkan bildirişləri üçün istifadə ediləcək şəbəkələr</string>
     <string name="device_profile_name">Cihaz hesabı</string>
     <string name="profile_name">Hesab seç</string>
     <string name="profile_name_native">Doğma</string>
@@ -106,7 +106,7 @@ Bu bir neçə dəqiqə çəkə bilər."</string>
     <string name="profile_name_user">Xüsusi: %s</string>
     <string name="profile_name_auto">Avtomatik: %s</string>
     <string name="profile_name_system">Sistem: %s</string>
-    <string name="import_profile_name">Fərdi profili idxal edin</string>
-    <string name="import_profile_summary">Fayldan cihaz profilini idxal edin</string>
+    <string name="import_profile_name">Fərdi profili idxal et</string>
+    <string name="import_profile_summary">Fayldan cihaz profilini idxal et</string>
     <string name="serial_name">Serial</string>
 </resources>
