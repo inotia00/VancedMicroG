@@ -18,8 +18,8 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <plurals name="gcm_registered_apps_counter">
-        <item quantity="one"><xliff:g example="1">%1$d</xliff:g> qeydiyyat olunmuş proqram</item>
-        <item quantity="other"><xliff:g example="123">%1$d</xliff:g> qeydiyyat olunmuş proqramlar</item>
+        <item quantity="one"><xliff:g example="1">%1$d</xliff:g> qeydiyyatdan keçmiş tətbiq</item>
+        <item quantity="other"><xliff:g example="123">%1$d</xliff:g> qeydiyyatdan keçmiş tətbiqlər</item>
     </plurals>
 
 </resources>
